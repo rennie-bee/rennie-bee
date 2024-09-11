@@ -31,7 +31,7 @@
   <samp>
     <!-- <a href="https://www.google.com/search?q=Al+Siam">「 My Personal Website 」</a> -->
     <br>
-    「 I am a master student from <b>University of Washington</b>, concentrating on fullstack development. 」
+    「 I am a master student from <b>University of Washington</b>, concentrating on cloud computings. 」
     <br>
     <br>
   </samp>
@@ -65,7 +65,7 @@
 <p>
  <img align="right" width="350" src="/assets/tp.gif" alt="Tennis Player gif" />
   
- ✌️ &emsp; Actively seeking 24 fall internships.<br/><br/>
+ ✌️ &emsp; Actively seeking 25 SWE/SRE NG.<br/><br/>
  ❤️ &emsp; Learning new features and techniques in fields of fullstack development, backend development, and cloud infrastructure.<br/><br/>
  📧 &emsp; Reach me anytime: marcus_rennie@outlook.com<br/><br/>
 
