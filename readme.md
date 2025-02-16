@@ -22,7 +22,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There! I am
-                <b><a target="_blank" href="https://rennie-bee.github.io/">Marcus Ren</a></b>
+                <b><a target="_blank" href="https://rennie-bee.github.io/">Carlos Ren</a></b>
         </samp>
 </h3>
 
